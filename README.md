@@ -1,5 +1,6 @@
 
-# Cynaris Week 1 Day 3 — JavaScript ES6+ Basics
+# Cynaris Week 1 Day 3
+# JavaScript ES6+ Basics
 
 ## Objective
 Practice modern JavaScript ES6+ features.
